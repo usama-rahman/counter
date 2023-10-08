@@ -67,8 +67,14 @@ Global Styles
   box-sizing: border-box;
 }
 body {
+  /* width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center; */
   font-family: var(--ff-secondary);
   background: var(--clr-grey-10);
+  /* background-color: #eee; */
   color: var(--clr-grey-1);
   line-height: 1.5;
   font-size: 0.875rem;
